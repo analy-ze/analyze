@@ -1,0 +1,52 @@
+# Project Charter
+
+## Nama Proyek:
+Program Analisis Proyek Blockchain
+
+## Tujuan Proyek:
+Membangun sebuah program analisis yang komprehensif dan mendetail untuk mengevaluasi proyek-proyek blockchain baru, memberikan wawasan yang berguna bagi para airdrop hunters, investor, dan pengembang dalam membuat keputusan yang tepat.
+
+## Ruang Lingkup:
+- **In-Scope:**
+  - Pengumpulan data dari CoinGecko, CoinMarketCap, Twitter, Reddit, dan situs resmi proyek.
+  - Analisis tokenomics, sentimen, dan keterlibatan komunitas.
+  - Penyimpanan data dalam database terstruktur.
+  - Penyajian data dalam bentuk laporan dan dashboard interaktif.
+  - Automasi pengumpulan data dan notifikasi melalui email/Telegram.
+
+- **Out-of-Scope:**
+  - Pengembangan aplikasi mobile.
+  - Fitur trading atau investasi.
+  - Analisis mendalam menggunakan AI yang kompleks.
+
+## Stakeholders:
+- Tim Pengembang
+- Pengguna Akhir (Airdrop Hunters, Investor, Pengembang dApps)
+- Investor dan Pendukung (VCs, Community Contributors)
+
+## Deliverables:
+- Project Charter
+- Requirement Specification
+- Repository Git Terstruktur
+- Lingkungan Pengembangan Terisolasi
+- Dokumentasi Teknis Awal
+
+## Timeline:
+- **Hari 1-2:** Definisi Proyek
+- **Hari 3-4:** Pemilihan Teknologi
+- **Hari 5-6:** Setup Repository
+- **Hari 7-8:** Pengaturan Lingkungan Pengembangan
+- **Hari 9-10:** Dokumentasi Proyek
+- **Hari 11-12:** Konfigurasi Alat dan Integrasi Awal
+- **Hari 13-14:** Review dan Penyesuaian
+
+## Risiko dan Mitigasi:
+- **Risiko:** Ketidakjelasan spesifikasi kebutuhan.
+  - **Mitigasi:** Melibatkan semua stakeholders dalam penyusunan Requirement Specification.
+
+- **Risiko:** Keterlambatan pengaturan lingkungan pengembangan.
+  - **Mitigasi:** Menyusun checklist dan memastikan semua tools terinstal dengan benar sejak awal.
+
+## Approvals:
+- **Project Manager:** [Nama PM]
+- **Stakeholders Utama:** [Nama Stakeholders]
