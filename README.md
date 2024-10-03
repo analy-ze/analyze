@@ -12,7 +12,7 @@ Program ini dirancang untuk menganalisis dan mengevaluasi proyek-proyek blockcha
 
 ## Cara Instalasi
 ```bash
-git clone https://github.com/username/blockchain-project-analysis.git
+git clone https://github.com/analy-ze/analyze.git
 cd blockchain-project-analysis
 python -m venv env
 source env/bin/activate  # Untuk Unix/Linux
