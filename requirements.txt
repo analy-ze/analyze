@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pandas
+numpy
+nltk
+matplotlib
+seaborn
+sqlalchemy
+streamlit
+apscheduler
+pytest
+python-telegram-bot
