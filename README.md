@@ -1,4 +1,4 @@
-# Blockchain Project Analysis
+# Analyze project
 
 ## Deskripsi Proyek
 Program ini dirancang untuk menganalisis dan mengevaluasi proyek-proyek blockchain baru dengan mengumpulkan data dari berbagai sumber, melakukan analisis tokenomics, sentimen, dan keterlibatan komunitas, serta menyajikan hasil analisis dalam bentuk laporan dan dashboard interaktif.
